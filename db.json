@@ -1,14 +1,61 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+  "id": 1,
+  "first_name": "Joellen",
+  "last_name": "Tithecote",
+  "email": "jtithecote0@answers.com",
+  "gender": "Female",
+  "ip_address": "38.236.234.79",
+  "cashback_rate": 6,
+  "cashback_amount": 4306,
+  "points_balance": 73541
+}, {
+  "id": 2,
+  "first_name": "Larina",
+  "last_name": "Mitchall",
+  "email": "lmitchall1@themeforest.net",
+  "gender": "Female",
+  "ip_address": "169.188.21.41",
+  "cashback_rate": 93,
+  "cashback_amount": 5039,
+  "points_balance": 84775
+}, {
+  "id": 3,
+  "first_name": "Packston",
+  "last_name": "Fryett",
+  "email": "pfryett2@marriott.com",
+  "gender": "Male",
+  "ip_address": "16.128.25.5",
+  "cashback_rate": 52,
+  "cashback_amount": 3657,
+  "points_balance": 74986
+}, {
+  "id": 4,
+  "first_name": "Karilynn",
+  "last_name": "Bascomb",
+  "email": "kbascomb3@bizjournals.com",
+  "gender": "Female",
+  "ip_address": "80.78.155.199",
+  "cashback_rate": 53,
+  "cashback_amount": 1753,
+  "points_balance": 53626
+}, {
+  "id": 5,
+  "first_name": "Udell",
+  "last_name": "Gradley",
+  "email": "ugradley4@livejournal.com",
+  "gender": "Male",
+  "ip_address": "70.20.123.228",
+  "cashback_rate": 30,
+  "cashback_amount": 9153,
+  "points_balance": 8453
+}, {
+  "id": 6,
+  "first_name": "Roley",
+  "last_name": "McKniely",
+  "email": "rmckniely5@sina.com.cn",
+  "gender": "Male",
+  "ip_address": "206.125.219.39",
+  "cashback_rate": 59,
+  "cashback_amount": 3604,
+  "points_balance": 49046
+}]
